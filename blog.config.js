@@ -1,12 +1,12 @@
 const BLOG = {
-  title: '她，知道吗？',
+  title: '她，知道吗',
   author: 'Liu Ze',
   email: 'zllmejxt@163.com',
   link: 'https://nobelium-phi-lime.vercel.app',
   description: '无聊，分享一些有趣的东西',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
-  appearance: 'auto', // ['light', 'dark', 'auto'],
+  appearance: 'dark', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
